@@ -12,7 +12,7 @@
     width: 100%;
     height: 700px;
     background-color: black;
-    background-image: url(../img/4.jpg);
+    background-image: url(4.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     
@@ -54,7 +54,7 @@
 {
     width:250px;
     height: 45px;
-    background-image: url(../img/1.png);
+    background-image: url(1.png);
     background-size: 100% 100%;
     margin-left: 60px;
     margin-top: 30px;
@@ -205,7 +205,7 @@
     width: 100%;
     height: 800px;
     background-color: brown;
-    background-image: url(../img/9.jpg);
+    background-image: url(9.jpg);
     background-attachment: fixed;
     
 }
@@ -321,7 +321,7 @@
     width: 100%;
     height: 900px;
     background-color: rebeccapurple;
-    background-image: url(../img/22.jpg);
+    background-image: url(22.jpg);
     background-attachment: fixed;
     
 }
@@ -401,7 +401,7 @@
     width: 100%;
     height: 350px;
     background-color: blueviolet;
-    background-image: url(../img/24.jpg);
+    background-image: url(24.jpg);
     background-attachment: fixed;
 }
 .location img{
